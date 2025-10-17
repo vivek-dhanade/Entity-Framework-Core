@@ -1,0 +1,3 @@
+Put the .db database file in below path folder to run the project
+
+C:\Users\E272830\AppData\Local

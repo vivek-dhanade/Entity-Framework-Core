@@ -1,0 +1,33 @@
+C:\Users\E272830\Desktop\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net9.0\EntityFrameworkCore.Domain.deps.json
+C:\Users\E272830\Desktop\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net9.0\EntityFrameworkCore.Domain.dll
+C:\Users\E272830\Desktop\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net9.0\EntityFrameworkCore.Domain.pdb
+C:\Users\E272830\Desktop\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E272830\Desktop\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.AssemblyInfoInputs.cache
+C:\Users\E272830\Desktop\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.AssemblyInfo.cs
+C:\Users\E272830\Desktop\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\E272830\Desktop\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.dll
+C:\Users\E272830\Desktop\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\refint\EntityFrameworkCore.Domain.dll
+C:\Users\E272830\Desktop\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.pdb
+C:\Users\E272830\Desktop\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\ref\EntityFrameworkCore.Domain.dll
+C:\Users\E272830\Desktop\Entity Framework\Section 3\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net9.0\EntityFrameworkCore.Domain.deps.json
+C:\Users\E272830\Desktop\Entity Framework\Section 3\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net9.0\EntityFrameworkCore.Domain.dll
+C:\Users\E272830\Desktop\Entity Framework\Section 3\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net9.0\EntityFrameworkCore.Domain.pdb
+C:\Users\E272830\Desktop\Entity Framework\Section 3\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E272830\Desktop\Entity Framework\Section 3\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.AssemblyInfoInputs.cache
+C:\Users\E272830\Desktop\Entity Framework\Section 3\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.AssemblyInfo.cs
+C:\Users\E272830\Desktop\Entity Framework\Section 3\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\E272830\Desktop\Entity Framework\Section 3\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.dll
+C:\Users\E272830\Desktop\Entity Framework\Section 3\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\refint\EntityFrameworkCore.Domain.dll
+C:\Users\E272830\Desktop\Entity Framework\Section 3\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.pdb
+C:\Users\E272830\Desktop\Entity Framework\Section 3\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\ref\EntityFrameworkCore.Domain.dll
+C:\Users\E272830\Desktop\Learning\Courses Undertaken\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net9.0\EntityFrameworkCore.Domain.deps.json
+C:\Users\E272830\Desktop\Learning\Courses Undertaken\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net9.0\EntityFrameworkCore.Domain.dll
+C:\Users\E272830\Desktop\Learning\Courses Undertaken\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\bin\Debug\net9.0\EntityFrameworkCore.Domain.pdb
+C:\Users\E272830\Desktop\Learning\Courses Undertaken\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E272830\Desktop\Learning\Courses Undertaken\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.AssemblyInfoInputs.cache
+C:\Users\E272830\Desktop\Learning\Courses Undertaken\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.AssemblyInfo.cs
+C:\Users\E272830\Desktop\Learning\Courses Undertaken\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\E272830\Desktop\Learning\Courses Undertaken\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.dll
+C:\Users\E272830\Desktop\Learning\Courses Undertaken\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\refint\EntityFrameworkCore.Domain.dll
+C:\Users\E272830\Desktop\Learning\Courses Undertaken\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\EntityFrameworkCore.Domain.pdb
+C:\Users\E272830\Desktop\Learning\Courses Undertaken\Entity Framework\Project\EntityFrameworkCore\EntityFrameworkCore.Domain\obj\Debug\net9.0\ref\EntityFrameworkCore.Domain.dll
